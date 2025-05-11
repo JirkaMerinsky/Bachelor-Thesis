@@ -1,0 +1,18 @@
+# Ignore flexi2xml.exe
+*.exe
+
+# Ignore transform results
+test/result/*
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+!.idea/externalDependencies.xml
+*.iws
+*.iml
+*.ipr
